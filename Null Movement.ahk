@@ -13,8 +13,8 @@
 ; 2024-07-25: Added requires v2 line
 
 ; Scan Code Mappings:
-; W   SC011
-; A   SC01E
+; Z   SC011
+; Q   SC01E
 ; S   SC01F
 ; D   SC020
 
